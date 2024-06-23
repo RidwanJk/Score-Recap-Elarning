@@ -1,7 +1,3 @@
-# data
+pw.py
 data/
-
-# password file
-/pw.py
-
 __pycache__/
