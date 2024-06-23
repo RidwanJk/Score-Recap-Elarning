@@ -1,6 +1,6 @@
 ## Description
 
-The Score Recap App is designed to provide a comprehensive score recap for e-learning activities. It allows users to track their progress and view a summary of their scores in a user-friendly interface.
+The Score Recap App is designed to provide a comprehensive score recap for e-learning activities. In my school ( UIN Maulana Malik Ibrahim )
 
 ## Table of Contents
 
