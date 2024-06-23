@@ -1,32 +1,49 @@
-# App Name
-
 ## Description
 
-This app is designed to provide a score recap for e-learning activities. It allows users to track their progress and view a summary of their scores.
+The Score Recap App is designed to provide a comprehensive score recap for e-learning activities. It allows users to track their progress and view a summary of their scores in a user-friendly interface.
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
 ## Features
 
-- Score tracking: Keep track of scores for different e-learning activities.
-- Summary view: View a recap of scores for each activity.
-- User-friendly interface: The app provides an intuitive and easy-to-use interface.
+- **Score Tracking:** Keep track of scores for different e-learning activities.
+- **Summary View:** View a recap of scores for each activity.
+- **User-friendly Interface:** The app provides an intuitive and easy-to-use interface.
 
 ## Installation
 
-1. Clone the repository.
-2. Open the app in your preferred code editor.
-
+1. **Clone the repository:**
+    ```sh
+    git clone https://github.com/yourusername/scorerecapapp.git
+    ```
+2. **Navigate to the project directory:**
+    ```sh
+    cd scorerecapapp
+    ```
+3. **Install the required dependencies:**
+    ```sh
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 
-Run the code using script 
-
-python main.py output_filename.xlsx
-
+1. **Run the script:**
+    ```sh
+    python main.py output_filename.xlsx
+    ```
+2. **Output:** The scores will be saved in the specified Excel file.
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions or improvements, please submit a pull request.
+Contributions are welcome! If you have any suggestions or improvements, please follow these steps:
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+1. Fork the repository.
+2. Create a new branch for your feature (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -am 'Add some feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Submit a pull request.
