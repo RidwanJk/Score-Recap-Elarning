@@ -34,7 +34,7 @@ The Score Recap App is designed to provide a comprehensive score recap for e-lea
 
 1. **Run the script:**
     ```sh
-    python main.py output_filename.xlsx
+    python main.py output_filename "URL Score Link"
     ```
 2. **Output:** The scores will be saved in the specified Excel file.
 
