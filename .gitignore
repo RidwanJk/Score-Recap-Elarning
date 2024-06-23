@@ -2,6 +2,6 @@
 data/
 
 # password file
-pw.py/
+/pw.py
 
 __pycache__/
