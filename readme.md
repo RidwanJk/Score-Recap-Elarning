@@ -29,12 +29,13 @@ The Score Recap App is designed to provide a comprehensive score recap for e-lea
     ```sh
     pip install -r requirements.txt
     ```
+4. **Create Password.py in root directory**
 
 ## Usage
 
 1. **Run the script:**
     ```sh
-    python main.py output_filename "URL Score Link"
+    python main.py "output_filename" "URL Score Link"
     ```
 2. **Output:** The scores will be saved in the specified Excel file.
 
