@@ -44,7 +44,7 @@ The Score Recap App is designed to provide a comprehensive score recap for e-lea
 Contributions are welcome! If you have any suggestions or improvements, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature-name`).
+2. Create a new branch for your feature or school name (`git checkout -b feature-name`).
 3. Commit your changes (`git commit -am 'Add some feature'`).
 4. Push to the branch (`git push origin feature-name`).
 5. Submit a pull request.
