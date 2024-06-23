@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-from pw import username, password
+from password import username, password
 
 def login(session, login_url):    
     login_page = session.get(login_url)
