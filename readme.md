@@ -19,7 +19,7 @@ The Score Recap App is designed to provide a comprehensive score recap for e-lea
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/scorerecapapp.git
+    git clone https://github.com/RidwanJk/Score-Recap-Elarning.git
     ```
 2. **Navigate to the project directory:**
     ```sh
