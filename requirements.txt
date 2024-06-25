@@ -1,0 +1,6 @@
+# requirements module for project
+bs4
+requests
+pandas
+numpy
+
